@@ -10,9 +10,11 @@
 -  Mentoring/Coaching
 -  Trainings
  
-- 📫 How to reach me: Email at raneemer05@hotmail.com or LinkedIn https://www.linkedin.com/in/raneem-r-94025a69
+- 📫 How to reach me: 
+   Email at raneemer05@hotmail.com 
+   LinkedIn https://www.linkedin.com/in/raneem-r-94025a69
+   
 - 😄 Pronouns: She/Her
-
 
 <!--
 **raneemr05/raneemr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
