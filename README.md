@@ -19,6 +19,7 @@
 😄 Pronouns: She/Her
 
 ⚡ Repositories
+
 My projects are mainly focused on Javascript based front-end development and Smart Contracts using Solidity
 
 <!--
