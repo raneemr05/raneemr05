@@ -2,8 +2,6 @@
 
 ✨ A UK-based Blockchain Professional with over seven years of commercial experience in the field of software development, trainings and solution architecture✨
 
-Dedicated to continuous learning with a proven ability to quickly learn and staying up-to-date with the latest trends and technologies in the industry, participating in conferences as speaker, online courses as trainer and forums, and experimenting with new tools and techniques to improve my skills and knowledge
-
 🔭 I’m currently working on Front-End Development, MERN Full-stack Development and Blockchain Smart Contract Development as back-end
 
 🌱 I’m currently learning new Javascript Frameworks and L2 Blockchain Solutions
