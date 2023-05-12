@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Front-End Development, MERN Full-stack Development and Blockchain Smart Contract Development 
+✨ A UK-based Blockchain Professional with over seven years of commercial experience in the field of software development, trainings and solution architecture✨
 
-🌱 I’m currently learning new Javascript Frameworks and Blockchain Platforms
+Dedicated to continuous learning with a proven ability to quickly learn and staying up-to-date with the latest trends and technologies in the industry, participating in conferences as speaker, online courses as trainer and forums, and experimenting with new tools and techniques to improve my skills and knowledge
+
+🔭 I’m currently working on Front-End Development, MERN Full-stack Development and Blockchain Smart Contract Development as back-end
+
+🌱 I’m currently learning new Javascript Frameworks and L2 Blockchain Solutions
 
 💬 Ask me about 
 -  Career in tech
@@ -17,7 +21,7 @@
 😄 Pronouns: She/Her
 
 ⚡ Repositories
-My projects are mainly focused on Javascript based developments and Smart Contracts using Solidity
+My projects are mainly focused on Javascript based front-end development and Smart Contracts using Solidity
 
 <!--
 **raneemr05/raneemr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
