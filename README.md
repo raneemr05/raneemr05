@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-✨ A UK-based Blockchain Professional with over seven years of commercial experience in the field of software development, technical trainings and solution architecture✨
+✨ A UK-based Technical Trainer/Coach and Blockchain Professional with over eight years of commercial experience in the field of software development, technical training, coaching and solution architecture✨
 
-🔭 I’m currently working on Front-End Development (React.js, tailwindcss, js libraries), MERN stack Development and Blockchain Smart Contract Development
+🔭 I’m currently working as a Technical Trainer and Coach at The Coders Guild
 
-🌱 I’m currently learning new Javascript Frameworks and L2 Blockchain Solutions -> Full-Stack dApps development
+🌱 I’m currently exploring AWS Services, Javascript Frameworks, and L2 Blockchain Solutions -> Full-Stack dApps development
 
 💬 Ask me about 
+-  Cloud En
 -  Career in tech
 -  Becoming a Blockchain Professional
 -  Mentoring/Coaching
 -  Trainings
  
 🤔 My Area of Interest
+- AWS Cloud Services
+- Artificial Intelligence 
 - Vanilla Javascript and its frameworks
 - Blockchain Development
-- Developer Advocacy / Relations
-- Instructor / Trainer / Lecturer
-
 
 📫 How to reach me: 
 -  Email at raneemer05@hotmail.com 
@@ -28,7 +28,7 @@
 ⚡ Repositories
 
 My projects are mainly focused on 
-- Javascript based front-end development 
+- Javascript-based front-end development 
 - Smart Contracts using Solidity
 
 <!--
