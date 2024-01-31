@@ -7,8 +7,9 @@
 🌱 I’m currently exploring AWS Services, Javascript Frameworks, and L2 Blockchain Solutions -> Full-Stack dApps development
 
 💬 Ask me about 
--  Cloud En
--  Career in tech
+-  Cloud Engineering - AWS
+-  Testing 
+-  Career in tech - remote / UK
 -  Becoming a Blockchain Professional
 -  Mentoring/Coaching
 -  Trainings
