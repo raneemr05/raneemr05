@@ -4,12 +4,13 @@
 
 🔭 I’m currently working as a Technical Trainer and Coach at The Coders Guild
 
-🌱 I’m currently exploring AWS Services, Javascript Frameworks, and L2 Blockchain Solutions -> Full-Stack dApps development
+🌱 I’m currently focusing using AWS Services, DevOps, and L2 Blockchain Solutions -> Full-Stack dApps development
 
 💬 Ask me about 
 -  Cloud Engineering - AWS
--  Testing 
--  Career in tech - remote / UK
+-  Testing
+-  DevOps
+-  Career in tech
 -  Becoming a Blockchain Professional
 -  Mentoring/Coaching
 -  Trainings
@@ -18,6 +19,7 @@
 - AWS Cloud Services
 - Artificial Intelligence 
 - Vanilla Javascript and its frameworks
+- DevOps
 - Blockchain Development
 
 📫 How to reach me: 
@@ -31,6 +33,7 @@
 My projects are mainly focused on 
 - Javascript-based front-end development 
 - Smart Contracts using Solidity
+- DevOps
 
 <!--
 **raneemr05/raneemr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
