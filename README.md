@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ✨ A UK-based Technical Trainer/Coach and Blockchain Professional with over eight years of commercial experience in the field of software development, technical training, coaching and solution architecture✨
 
